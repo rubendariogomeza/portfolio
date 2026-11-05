@@ -5,8 +5,8 @@ archivado de documentos y alertas por correo.**
 
 **Rol:** diseño, desarrollo y operación.
 **Stack:** PowerShell, Windows Task Scheduler, SMTP, estado en JSON.
-**Código:** privado (construido en el contexto de un cliente). Este documento describe el
-problema y las decisiones, no la implementación.
+**Código:** [github.com/rubendariogomeza/ases-rfp-tracker](https://github.com/rubendariogomeza/ases-rfp-tracker)
+(versión pública saneada: sin datos de clientes ni credenciales).
 
 ---
 

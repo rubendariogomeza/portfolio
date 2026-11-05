@@ -21,7 +21,7 @@ sale del dispositivo. Sin frameworks, sin build, sin backend de audio.
 > 129 pruebas automatizadas · despliegue continuo en GitHub Pages · funciona sin conexión
 
 ### Monitor de contratación pública — agente de automatización
-[Ver caso](cases/rfp-tracker.md)
+**[Código](https://github.com/rubendariogomeza/ases-rfp-tracker)** · [Ver caso](cases/rfp-tracker.md)
 
 Agente que vigila a diario un portal de contratación gubernamental, detecta RFP nuevas,
 enmiendas, cuestionarios y plantillas de costos, archiva los documentos y avisa por correo.
