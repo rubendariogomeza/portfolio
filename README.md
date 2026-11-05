@@ -18,7 +18,7 @@ Motor que convierte la transcripción de una reunión en un informe revisable, t
 listas para Jira y un brief semanal que dice qué se movió, qué está quieto y qué necesita
 una decisión. Los compromisos los extrae el código; el modelo solo redacta.
 
-> TypeScript · 41 pruebas · Jira en simulación por defecto · corre sin credenciales ni red
+> TypeScript · Jira en simulación por defecto · corre sin credenciales ni red
 
 ### Bloques Sonoros — secuenciador musical tangible
 **[Demo en vivo](https://rubendariogomeza.github.io/bloques-sonoros/)** · [Caso completo](cases/bloques-sonoros.md)

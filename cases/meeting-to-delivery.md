@@ -75,7 +75,7 @@ fixture, no de un cliente.
 
 ## Evidencia
 
-- **41 pruebas** sobre la lógica pura y un recorrido de extremo a extremo: fechas, dueños,
+- **Pruebas** sobre la lógica pura y un recorrido de extremo a extremo: fechas, dueños,
   extracción, fusión de duplicados, esquemas, plan de Jira, correo y brief.
 - `npm run demo` produce un informe, nueve tareas, un plan de Jira, dos correos y un brief
   en menos de un segundo, **sin credenciales y sin red**.
