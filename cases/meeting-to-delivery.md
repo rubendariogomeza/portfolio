@@ -15,11 +15,12 @@ siguen vivos, cuáles se cerraron y cuáles nunca empezaron. El problema no es l
 herramientas: hay Jira, hay actas, hay correos. El problema es que **el estado del trabajo
 no es legible**, y lo que no se ve no se gestiona.
 
-Ese fue el problema real en un cliente de healthtech en EE. UU.: un equipo de 18 personas
-en cinco frentes, sin accountability de tareas ni reportes semanales. Se resolvió con JIRA
-bien administrado y automatizaciones que hacían visible el avance detenido. Este proyecto
-convierte esa solución en un motor que cualquier equipo con Outlook, Teams y Jira puede
-usar — y que se puede ejecutar y auditar sin acceso al tenant.
+Ese fue el problema real en un cliente de healthtech en EE. UU.: un equipo de 21 personas
+en cinco frentes, con oficina principal en Miami y personas en Colombia y España, sin
+accountability de tareas ni reportes semanales. Se resolvió con JIRA bien administrado y
+automatizaciones que hacían visible el avance detenido. Este proyecto convierte esa solución
+en un motor que cualquier equipo con Outlook, Teams y Jira puede usar — y que se puede
+ejecutar y auditar sin acceso al tenant.
 
 ## Qué hace
 
