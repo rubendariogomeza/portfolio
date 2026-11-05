@@ -73,7 +73,8 @@ una que expone al usuario.
 - **Sin librerías de UI.** Next.js y React, nada más. El panel es pequeño y el costo de
   mantenimiento importa más que la comodidad de un framework de componentes.
 - **Login con cookie firmada por HMAC.** Una sola dependencia conceptual, sin proveedor de
-  identidad para un panel de dos usuarios.
+  identidad para un panel de dos usuarios. Sin `APP_SECRET` ni usuarios configurados el
+  panel no arranca: no hay credenciales por defecto.
 - **Tarea programada de Windows** cada 12 horas, con registro en `data/ingest.log` y una
   pantalla de **Revisiones** que muestra si una fuente falló.
 - **Pruebas sobre la lógica pura** (`npm run test:logic`): filtros, puntaje y motivos.
