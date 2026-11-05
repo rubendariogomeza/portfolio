@@ -32,7 +32,7 @@ Antes, esa vigilancia dependía de que alguien entrara a mirar.
 ### Búsqueda de inmuebles en arriendo — aplicación web
 **En construcción.** Filtra y prioriza inmuebles según condiciones reales del usuario
 (presupuesto, trayecto, servicios, tiempos) en lugar de obligarlo a revisar decenas de
-portales uno por uno. [FALTA: descripción del alcance y enlace]
+portales uno por uno.
 
 ---
 
