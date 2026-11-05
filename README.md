@@ -29,10 +29,15 @@ Antes, esa vigilancia dependía de que alguien entrara a mirar.
 
 > Ejecución programada · motor de diferencias sobre estado persistente · alertas por correo
 
-### Búsqueda de inmuebles en arriendo — aplicación web
-**En construcción.** Filtra y prioriza inmuebles según condiciones reales del usuario
-(presupuesto, trayecto, servicios, tiempos) en lugar de obligarlo a revisar decenas de
-portales uno por uno.
+### Mi Nueva Casita — búsqueda de arriendo con criterios explicables
+**[Código](https://github.com/rubendariogomeza/mi-nueva-casita)** · [Ver caso](cases/mi-nueva-casita.md)
+
+Panel privado que revisa inmobiliarias cada 12 horas y clasifica cada oferta en tres
+estados —cumple, por confirmar, descartada— en lugar de dos. Un filtro binario castiga los
+datos incompletos, y en inmuebles los datos casi siempre están incompletos.
+
+> Next.js 15 · TypeScript · SQLite local · filtros y puntaje con pruebas · rastreo limitado
+> a sitios que lo permiten en sus términos
 
 ---
 
